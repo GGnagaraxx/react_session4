@@ -1,0 +1,10 @@
+.notifs-area{
+    position: absolute;
+    height: 50vh;
+    width: 20vw;
+    min-height: 300px;
+    min-width: 300px;
+    top: 75px;
+    right: 10px;
+    z-index: 900;
+}

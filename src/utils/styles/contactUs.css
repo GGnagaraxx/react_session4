@@ -1,0 +1,38 @@
+.contactUs-comp{
+    width: 80%;
+}
+
+.locationCard-comp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.location-content{
+    width: 100%;
+}
+
+.mapouter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 95%!important;
+    height: 500px;
+    margin: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid gray;
+}
+
+.gmap_canvas{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.gmap_canvas iframe{
+    width: 100%;
+    height: 100%;
+}
